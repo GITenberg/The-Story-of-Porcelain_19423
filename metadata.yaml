@@ -1,0 +1,36 @@
+_repo: The-Story-of-Porcelain_19423
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caley, Isabel W.
+    gutenberg_agent_id: '35912'
+    url: http://www.gutenberg.org/2009/agents/35912
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bassett, Sara Ware
+    birthdate: 1872
+    deathdate: 1968
+    gutenberg_agent_id: '2534'
+    url: http://www.gutenberg.org/2009/agents/2534
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Children's Instructional Books
+- Manufacturing
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pottery -- Juvenile literature'
+- !lcc 'PZ'
+title: The Story of Porcelain
+url: http://www.gutenberg.org/ebooks/19423
